@@ -51,19 +51,6 @@ public class validpyp {
         else
             System.out.println("Vehicular circulation not allowed");
 
-        // Boolean flag1=validationLicensePlace(datepyp,licenseplate,time);
-        //flag3=validDay(time);
-        //validatepyp();
         br.close();
-/*
-        Predictor predictor = new Predictor();
-
-        predictor.setPlaca(placa);
-        predictor.setFecha(fecha);
-        predictor.setHora(hora);
-
-        PredictorApp app = new PredictorApp();
-        app.verificarPicoPlaca(predictor);
-*/
     }
 }
